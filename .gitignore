@@ -3,3 +3,5 @@ workspace.json
 appearance,json
 .DS_Store
 /.obsidian/
+*.exe
+*.mp4
