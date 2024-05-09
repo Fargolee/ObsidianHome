@@ -8,3 +8,5 @@
 	waterproof n.雨衣
 	watermelon n.西瓜
 	watershed n.转折点
+	watercolour n.水彩
+	
